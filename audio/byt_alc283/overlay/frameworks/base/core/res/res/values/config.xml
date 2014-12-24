@@ -15,7 +15,7 @@
     <add-resource type="array" name="config_pcm_regexs"/>
 
     <string-array translatable="false" name="config_pcm_regexs">
-        <item>"/class/sound/card\\d/pcmC\\dD\\dp"</item>
+        <item>"/devices/.*/usb\\d/.*/sound/card\\d/pcmC\\dD\\dp"</item>
     </string-array>
 
 </resources>

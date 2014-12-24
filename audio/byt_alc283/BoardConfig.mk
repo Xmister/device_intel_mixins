@@ -8,7 +8,7 @@ BUILD_WITH_ALSA_UTILS := true
 BOARD_USES_GENERIC_AUDIO := false
 
 # enabled to use Intel audio SRC (sample rate conversion)
-USE_INTEL_SRC := false
+USE_INTEL_SRC := true
 
 # enabled to use ALAC
 USE_FEATURE_ALAC := true

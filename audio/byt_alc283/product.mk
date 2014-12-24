@@ -22,4 +22,5 @@ PRODUCT_COPY_FILES += \
     $(byt_alc283_path)/audio_policy.conf:system/etc/audio_policy.conf \
     $(byt_alc283_path)/mixer_paths_Analog_Devices.xml:system/etc/mixer_paths_Analog_Devices.xml \
     $(byt_alc283_path)/mixer_paths_unknown.xml:system/etc/mixer_paths_unknown.xml \
-    $(byt_alc283_path)/mixer_paths_ALC283.xml:system/etc/mixer_paths_ALC283.xml
+    $(byt_alc283_path)/mixer_paths_ALC283.xml:system/etc/mixer_paths_ALC283.xml \
+    $(byt_alc283_path)/mixer_paths_92HD95.xml:system/etc/mixer_paths_92HD95.xml
