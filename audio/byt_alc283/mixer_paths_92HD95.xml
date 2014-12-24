@@ -1,11 +1,11 @@
 <mixer>
   <!-- These are the initial mixer settings -->
   <ctl name="Speaker Playback Switch" value="0" />
-  <ctl name="Speaker Playback Volume" value="87" />
+  <ctl name="Speaker Playback Volume" value="127" />
   <ctl name="Master Playback Switch" value="0" />
-  <ctl name="Master Playback Volume" value="87" />
+  <ctl name="Master Playback Volume" value="127" />
   <ctl name="Headphone Playback Switch" value="0" />
-  <ctl name="Headphone Playback Volume" value="87" />
+  <ctl name="Headphone Playback Volume" value="127" />
   <ctl name="Capture Switch" value="0" />
   <ctl name="Capture Volume" value="87" />
 
